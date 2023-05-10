@@ -1,0 +1,20 @@
+{
+    "db": {
+        "user": "root",
+        "pass": "",
+        "name": "db_minimarket",
+        "host": "localhost",
+        "port": 3306,
+        "dbType": "mysql",
+        "location": "Asia/Jakarta",
+        "sslMode": "disable",
+        "alias": "default",
+        "force": false,
+        "verbose": true,
+        "debug": true
+    },
+    "credentials": {
+        "secretKey": "pWiVRsP44xdeCaW4PaEVVx/c1OGaF2hAeiozT3Pu+FU=",
+        "clientKey": "adb60eb851274c6ca2eee76896038ac1"
+    }
+}
